@@ -1,7 +1,7 @@
 import Searchbar from './Searchbar';
 import Siteheader from './Siteheader';
 import Addresses from './Addresses';
-import { AppShell, Header, Text, Image, Box } from '@mantine/core';
+import { AppShell, Header } from '@mantine/core';
 
 export default function Shell() {
 
